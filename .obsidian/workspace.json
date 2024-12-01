@@ -1,32 +1,24 @@
 {
   "main": {
-    "id": "f0badc9099fb3c8f",
+    "id": "8cfaae4859281fe9",
     "type": "split",
     "children": [
       {
-        "id": "7bc0496b03973202",
+        "id": "9a33e79929424843",
         "type": "tabs",
         "children": [
           {
-            "id": "29d1fc2386472c1e",
+            "id": "7ad23af0b801ae69",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-<<<<<<< HEAD
-                "file": "awesome things i have done in college/large language models presentation.md",
-=======
                 "file": "my setup/how did i setup my note sync through git hub ( serious modification required ).md",
->>>>>>> b14cb273105862bfd39f29e85fcdc38d3cc61165
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-<<<<<<< HEAD
-              "title": "large language models presentation"
-=======
               "title": "how did i setup my note sync through git hub ( serious modification required )"
->>>>>>> b14cb273105862bfd39f29e85fcdc38d3cc61165
             }
           }
         ]
@@ -35,15 +27,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "8a61e88e6e3ef8cb",
+    "id": "cea4fb1f093b5153",
     "type": "split",
     "children": [
       {
-        "id": "d436e1f085b08a5a",
+        "id": "24370ee0efe4ab90",
         "type": "tabs",
         "children": [
           {
-            "id": "5d22e74d5da48ca1",
+            "id": "5de2ffeda9003ef6",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -55,7 +47,7 @@
             }
           },
           {
-            "id": "28e92009eb686fe3",
+            "id": "971bb84840b1bdaa",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -72,7 +64,7 @@
             }
           },
           {
-            "id": "7bfb8008f131bdc6",
+            "id": "fdbecfd2283e85ac",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -88,15 +80,15 @@
     "width": 300
   },
   "right": {
-    "id": "c03cc1e8421fa9c1",
+    "id": "0287313ea7f9fe04",
     "type": "split",
     "children": [
       {
-        "id": "e304dfbd5f69e2c5",
+        "id": "147b5304c2256700",
         "type": "tabs",
         "children": [
           {
-            "id": "a0d6807a260b1693",
+            "id": "af9529d456e95a37",
             "type": "leaf",
             "state": {
               "type": "backlink",
@@ -115,7 +107,7 @@
             }
           },
           {
-            "id": "f554cd1165084ef8",
+            "id": "8d0089a97100b858",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
@@ -129,7 +121,7 @@
             }
           },
           {
-            "id": "da4f7a2dc8867fed",
+            "id": "52a4d90a32f41fcb",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -142,22 +134,15 @@
             }
           },
           {
-            "id": "4c14bdf24cd04a1f",
+            "id": "7cdad4dbb19caa53",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-<<<<<<< HEAD
-                "file": "awesome things i have done in college/large language models presentation.md"
-              },
-              "icon": "lucide-list",
-              "title": "Outline of large language models presentation"
-=======
                 "file": "my setup/how did i setup my note sync through git hub ( serious modification required ).md"
               },
               "icon": "lucide-list",
               "title": "Outline of how did i setup my note sync through git hub ( serious modification required )"
->>>>>>> b14cb273105862bfd39f29e85fcdc38d3cc61165
             }
           }
         ]
@@ -179,54 +164,6 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "29d1fc2386472c1e",
-  "lastOpenFiles": [
-<<<<<<< HEAD
-    "a dumpyard/i don't know if i can call this a dumpyard { much more than that }.md",
-    "a dumpyard/a place where i dump my gpu programming links.md",
-    "my setup/how did i setup my note sync through git hub ( serious modification required ).md",
-    "my setup/how did i setup notes sync on my github using ssh ( serious modification required ).md",
-    "awesome things i have done in college/the last ride ;) arte4is.bat.md",
-    "my setup/the setup.md",
-    "restored_file.md",
-    "serious",
-    "awesome things i have done in college/large language models presentation.md",
-    "my setup/how did i setup my note sync through git hub -> serious modification required.md",
-    "xeetshot/log 01.md",
-    "somethings i had to say/hmm large language models !.md",
-    "knowledge/what the hell are large language models.md",
-=======
-    "javascript/will surely type something here.md",
-    "knowledge/what the hell are large language models.md",
-    "my setup/the setup.md",
-    "xeetshot/log 01.md",
-    "somethings i had to say/hmm large language models !.md",
->>>>>>> b14cb273105862bfd39f29e85fcdc38d3cc61165
-    "knowledge/knowledge checklist.md",
-    "fucking checklists/programming checklist.md",
-    "fucking checklists/general checklist.md",
-    "fucking checklists/college checklist.md",
-    "fucking checklists/agni kai checklist.md",
-    "excalidraw/agni kai.md",
-    "dumpyard/xeelog1.jpg",
-    "dumpyard/llm_1.png",
-    "daily logs/sever logs called life.md",
-    "chotu workstation/will surely type something here.md",
-    "c++ with data structures/will surely type something here.md",
-<<<<<<< HEAD
-    "fucking checklists/the end moment checklist.md",
-    "xeetshot",
-    "somethings i had to say",
-    "seminars i have done in college/computer networks seminar.md",
-    "seminars i have done in college",
-    "awesome things i have done in college"
-=======
-    "awesome things i have done in college/large language models presentation.md",
-    "awesome things i have done in college/the last ride ;) arte4is.bat.md",
-    "a dumpyard/i don't know if i can call this a dumpyard { much more than that }.md",
-    "a dumpyard/a place where i dump my gpu programming links.md",
-    "my setup/how did i setup my note sync through git hub ( serious modification required ).md",
-    "my setup/how did i setup notes sync on my github using ssh ( serious modification required ).md"
->>>>>>> b14cb273105862bfd39f29e85fcdc38d3cc61165
-  ]
+  "active": "7ad23af0b801ae69",
+  "lastOpenFiles": []
 }
