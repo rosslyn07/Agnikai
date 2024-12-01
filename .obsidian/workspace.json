@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "my setup/how did i setup my note sync through git hub ( serious modification required ).md",
+                "file": "chotu workstation/will surely type something here.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "how did i setup my note sync through git hub ( serious modification required )"
+              "title": "will surely type something here"
             }
           }
         ]
@@ -139,10 +139,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "my setup/how did i setup my note sync through git hub ( serious modification required ).md"
+                "file": "chotu workstation/will surely type something here.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of how did i setup my note sync through git hub ( serious modification required )"
+              "title": "Outline of will surely type something here"
             }
           }
         ]
@@ -165,5 +165,10 @@
     }
   },
   "active": "7ad23af0b801ae69",
-  "lastOpenFiles": []
+  "lastOpenFiles": [
+    "c++ with data structures/will surely type something here.md",
+    "a dumpyard/a place where i dump my gpu programming links.md",
+    "daily logs/sever logs called life.md",
+    "my setup/how did i setup my note sync through git hub ( serious modification required ).md"
+  ]
 }
