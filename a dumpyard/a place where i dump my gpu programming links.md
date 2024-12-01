@@ -1,0 +1,2 @@
+->https://developer.nvidia.com/udacity-cs344-intro-parallel-programming
+->https://www.youtube.com/playlist?list=PL6RdenZrxrw-zNX7uuGppWETdxt_JxdMj > cuda training series 

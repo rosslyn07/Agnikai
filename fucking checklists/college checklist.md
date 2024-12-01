@@ -1,0 +1,35 @@
+sol [ 5th sem ]
+- [x] complete ai/ml 1 assignment
+- [x] complete rm 1 assignment 
+- [x] complete dbms  1 assignment 
+- [x] complete dbms journal 
+- [x] complete dbms observation book 
+- [x] complete cn journal
+- [x] complete cn observation book
+- [x] complete atc 1 assignment 
+- [x] prepare a image viewer project for c# and a powerpoint for the same [ deadline 20th Feb ]
+- [x] prepare dbms project a ppt and a report for it  [ toy store ] before 2nd Ia
+- [x] find out a project name for ai/ml project and submit it on monday 
+- [x] complete c# observation book [ 8 programs ]
+- [x] complete c# journal [ 8 programs ]
+- [x] complete dbms 2 assignment 
+- [x] complete atc 2 assignment 
+- [x] complete rm 2 assignment 
+- [x] complete dbms 3 assignment 
+- [x] complete vtu online course before 3rd ia 
+- [x] write cn 1st ia 
+- [x] complete cn lab ia on monday 
+- [x] show dbms project, project report, project ppt and journal  on tuesday
+- [x] complete c# lab ia on wednesday
+- [x] prepare c# project and project ppt by friday 
+- [x] prepare for ai seminar [ prepare seminar report of 10-12 pages and seminar ppt of 10 slides  ]
+- [x] prepare for atc seminar 
+
+sol [ 6th sem ]
+- [x] complete cgfip 3rd assignment 
+- [x] complete fsd journal
+- [x] complete cgfip journal
+- [x] prepare for cgfip seminar
+- [x] complete ajp 2nd assignment 
+- [x] complete cgfip project with ppt & report
+- [x] complete mini project with ppt & report 

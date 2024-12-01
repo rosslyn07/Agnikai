@@ -1,0 +1,11 @@
+{
+  "accentColor": "",
+  "interfaceFontFamily": "Comic Sans MS",
+  "cssTheme": "GitHub Theme",
+  "baseFontSize": 19,
+  "enabledCssSnippets": [
+    "img-center"
+  ],
+  "theme": "obsidian",
+  "textFontFamily": "Comic Sans MS"
+}
