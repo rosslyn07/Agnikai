@@ -17,6 +17,8 @@
 - the food will be provided 3 times throughout the hackathon [ lunch dinner and next day breakfast ] 
 - after the end of the hackathon feedback will be collected from the students
 - the participants are not meant to leave the college campus before the hackathon ends
+- if the participants are taking rooms they should be present in the college a day before the hackathon and should check in the hostel rooms at exact 12:00pm
+- the rooms will be o 2 types [ one with 4 members and 2 members & single individuals will be paired with other single individuals ]
 ### <font color="#ffc000">the bare-bone structure of the hackathon</font>
 -  the organizing team arrives at the venue 7:30am
 - the pickup buses start from gadag and hulkoti at 8:00am at the respective bus stops and will exactly leave from the bus stops 8:30am and the participants will arrive at college at approx 9:00am
@@ -81,12 +83,17 @@
 - speakers and mics [  ]
 - water bottles [ 5 cartons ]
 - decoration [ balloons, glitter, party poopers, fake veins, thermacol]
+- accommodation [  ]
+- accommodation food 
+	- lunch [ as provided in mess ]
+	- dinner [ as provided in mess ]
 - food 
-	- breakfast [  ]
-	- lunch [  ]
-	- dinner [  ]
-	- snack [  ]
-	- breakfast [  ]
+	- breakfast [ upma + shira + tea & coffee ]
+	- lunch [ pulav + raita + pickle + small sweet ]
+	- dinner [ white rice + sambar + vegetable mix [  ] + buttermilk packet]
+	- snack at evening [ samosa + tea & coffee ]
+	- snacks at midnight [ frooti + chips + tea & coffee ]
+	- breakfast [ iddli + chutney + tea & coffee ]
 - id cards [  ]
 - certificates [  ]
 - electronics [ extension boxes ] 
