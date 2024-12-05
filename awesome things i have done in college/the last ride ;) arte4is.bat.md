@@ -78,10 +78,12 @@
 
 ### budget of the hackathon
 - prizes [  ]
-- decoration lights [  ]
+- decoration lights [ color tubelights, color lights, focus lights, strip lights,]
+- speakers and mics [ 3 speakers & 2 mics ( wireless ) ]
+- electronics [ extension boxes ] (  ) (  )
 - poster and banners [  ]
-- speakers and mics [  ]
-- water bottles [ 5 cartons ]
+- photo frame [  ]
+- water bottles [ 5 cartons may vary ] ( 130 per carton original ) ( 200 per carton )
 - decoration [ balloons, glitter, party poopers, fake veins, thermacol]
 - accommodation [  ]
 - accommodation food 
@@ -96,7 +98,6 @@
 	- breakfast [ iddli + chutney + tea & coffee ]
 - id cards [  ]
 - certificates [  ]
-- electronics [ extension boxes ] 
 - bouquets [  ]
 - feedback forms [  ]
 - team goodies [  ] -> hold
