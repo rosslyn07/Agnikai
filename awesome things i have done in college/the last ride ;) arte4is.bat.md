@@ -18,7 +18,7 @@
 - after the end of the hackathon feedback will be collected from the students
 - the participants are not meant to leave the college campus before the hackathon ends
 - if the participants are taking rooms they should be present in the college a day before the hackathon and should check in the hostel rooms at exact 12:00pm
-- the rooms will be o 2 types [ one with 4 members and 2 members & single individuals will be paired with other single individuals ]
+- the rooms will be of 2 types [ one with 4 members and 2 members & single individuals will be paired with other single individuals ]
 ### <font color="#ffc000">the bare-bone structure of the hackathon</font>
 -  the organizing team arrives at the venue 7:30am
 - the pickup buses start from gadag and hulkoti at 8:00am at the respective bus stops and will exactly leave from the bus stops 8:30am and the participants will arrive at college at approx 9:00am
@@ -78,7 +78,7 @@
 
 ### budget of the hackathon
 - prizes [  ]
-- decoration lights [ color tubelights, color lights, focus lights, strip lights,]
+- decoration lights [ color tube lights, color lights, focus lights, strip lights ]
 - speakers and mics [ 3 speakers & 2 mics ( wireless ) ]
 - electronics [ extension boxes ] (  ) (  )
 - poster and banners [  ]
@@ -95,7 +95,7 @@
 	- dinner [ white rice + sambar + vegetable mix [  ] + buttermilk packet]
 	- snack at evening [ samosa + tea & coffee ]
 	- snacks at midnight [ frooti + chips + tea & coffee ]
-	- breakfast [ iddli + chutney + tea & coffee ]
+	- breakfast [ idlli + chutney + tea & coffee ]
 - id cards [  ]
 - certificates [  ]
 - bouquets [  ]
@@ -105,7 +105,7 @@
 
 ### the things that can be taken from college
 - wifi 
-- buses [  2 trips one from hulkoti and one from gadag ]
+- buses [ 2 trips one from hulkoti and one from gadag ]
 - projector and projector screens
 - tables and chairs 
 - decoration lights

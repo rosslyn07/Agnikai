@@ -18,14 +18,15 @@
 ->Plex
 ->Zen Browser
 ->Stremio [Use Stremio (app/interface) + torrentio (addon) + realdebrid account (streaming server) ]
+->Revo Uninstaller
 # Softwares To Try On Mac
 ->Pile Journal App
 ->Noteplan
 ->Net News Wire
 # Software To Learn In Near Future
--> Emacs
+->Emacs
 ->Vim & Vim Gui
--> Neovim
+->Neovim
 # Softwares To Grill System  
 ->Heaven Benchmark 
 ->GPU-z 
@@ -37,6 +38,8 @@
 ->ScreenZen
 ->Shelf
 ->Beeper
+->Shizuku
+->Canta [ https://github.com/samolego/Canta ]
 # Softwares That take It To Next Level 
 ->Chocolatey [https://community.chocolatey.org/]
 ->Wiz Tree
@@ -55,6 +58,11 @@
 	-> [https://sourceforge.net/projects/hesuvi/]
 ->Voicemeeter [https://vb-audio.com/Voicemeeter/index.htm]
 ->Scrpy [https://github.com/Frontesque/scrcpy-plus]
+# Chrome Extensions That Are Useful
+->[ https://chromewebstore.google.com/detail/reddit-to-png/eemgjlokgoimndbjoaghpjakdbhjkkjm?hl=en ]
+->[ https://chromewebstore.google.com/detail/video-speed-controller/ibbnflebibmaomolippckjbahgaophfh ]
+->[ https://chromewebstore.google.com/detail/watchlonelilcom-extension/ledghdciabnclonmdjdepoebpankoboo ]
+->[ https://chromewebstore.google.com/detail/visbug/cdockenadnadldjbbgcallicgledbeoc ]
 # Games I Wanna Try
 ->Enter The Adventure : Easter Eggs
 ->Tiny Glade

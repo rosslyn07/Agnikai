@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "9a33e79929424843",
+        "id": "921da0507b994407",
         "type": "tabs",
         "children": [
           {
-            "id": "7ad23af0b801ae69",
+            "id": "1778b4cc2f1d07a1",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "awesome things i have done in college/the last ride ;) arte4is.bat.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "the last ride ;) arte4is.bat"
+              "title": "New tab"
             }
           }
         ]
@@ -77,8 +73,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "0287313ea7f9fe04",
@@ -139,11 +134,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "awesome things i have done in college/the last ride ;) arte4is.bat.md"
-              },
+              "state": {},
               "icon": "lucide-list",
-              "title": "Outline of the last ride ;) arte4is.bat"
+              "title": "Outline"
             }
           }
         ]
@@ -165,11 +158,15 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "7ad23af0b801ae69",
+  "active": "1778b4cc2f1d07a1",
   "lastOpenFiles": [
+    "a dumpyard/i don't know if i can call this a dumpyard { much more than that }.md",
+    "just a random folder/albums i have listened to.md",
+    "just a random folder",
+    "a dumpyard/a place where i dump my gpu programming links.md",
+    "awesome things i have done in college/the last ride ;) arte4is.bat.md",
     "chotu workstation/will surely type something here.md",
     "c++ with data structures/will surely type something here.md",
-    "a dumpyard/a place where i dump my gpu programming links.md",
     "daily logs/sever logs called life.md",
     "my setup/how did i setup my note sync through git hub ( serious modification required ).md"
   ]
