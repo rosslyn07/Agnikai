@@ -40,6 +40,10 @@
 ->Beeper
 ->Shizuku
 ->Canta [ https://github.com/samolego/Canta ]
+->Namida Music Player 
+->Missing Core Music Player
+->Round Sync
+->Aer Fork Of Anemo
 # Softwares That take It To Next Level 
 ->Chocolatey [https://community.chocolatey.org/]
 ->Wiz Tree

@@ -11,10 +11,14 @@
             "id": "1778b4cc2f1d07a1",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "a dumpyard/i don't know if i can call this a dumpyard { much more than that }.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "i don't know if i can call this a dumpyard { much more than that }"
             }
           }
         ]
@@ -134,9 +138,11 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {},
+              "state": {
+                "file": "a dumpyard/i don't know if i can call this a dumpyard { much more than that }.md"
+              },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of i don't know if i can call this a dumpyard { much more than that }"
             }
           }
         ]
@@ -160,10 +166,10 @@
   },
   "active": "1778b4cc2f1d07a1",
   "lastOpenFiles": [
+    "a dumpyard/a place where i dump my gpu programming links.md",
     "a dumpyard/i don't know if i can call this a dumpyard { much more than that }.md",
     "just a random folder/albums i have listened to.md",
     "just a random folder",
-    "a dumpyard/a place where i dump my gpu programming links.md",
     "awesome things i have done in college/the last ride ;) arte4is.bat.md",
     "chotu workstation/will surely type something here.md",
     "c++ with data structures/will surely type something here.md",
