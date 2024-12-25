@@ -1,0 +1,5 @@
+- [ ] what is frequency counter ?
+- [ ] how does mobile cracking actually work ?
+- [ ] what are sinusoidal positional embeddings ?
+- [ ] difference between compiler and interpreter ?
+- [ ] what is object code in c++?

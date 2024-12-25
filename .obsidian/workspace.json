@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "921da0507b994407",
+        "id": "ebe2a2db1a93b695",
         "type": "tabs",
         "children": [
           {
-            "id": "1778b4cc2f1d07a1",
+            "id": "715b49b3530645a0",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "a dumpyard/i don't know if i can call this a dumpyard { much more than that }.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "i don't know if i can call this a dumpyard { much more than that }"
+              "title": "New tab"
             }
           }
         ]
@@ -77,7 +73,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 249.5
   },
   "right": {
     "id": "0287313ea7f9fe04",
@@ -93,7 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "my setup/how did i setup my note sync through git hub ( serious modification required ).md",
+                "file": "Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +99,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for how did i setup my note sync through git hub ( serious modification required )"
+              "title": "Backlinks for Untitled"
             }
           },
           {
@@ -138,14 +134,23 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "a dumpyard/i don't know if i can call this a dumpyard { much more than that }.md"
-              },
+              "state": {},
               "icon": "lucide-list",
-              "title": "Outline of i don't know if i can call this a dumpyard { much more than that }"
+              "title": "Outline"
+            }
+          },
+          {
+            "id": "0c434253fb1b6bc7",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -164,16 +169,40 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "1778b4cc2f1d07a1",
+  "active": "5de2ffeda9003ef6",
   "lastOpenFiles": [
-    "a dumpyard/a place where i dump my gpu programming links.md",
-    "a dumpyard/i don't know if i can call this a dumpyard { much more than that }.md",
-    "just a random folder/albums i have listened to.md",
-    "just a random folder",
-    "awesome things i have done in college/the last ride ;) arte4is.bat.md",
-    "chotu workstation/will surely type something here.md",
-    "c++ with data structures/will surely type something here.md",
-    "daily logs/sever logs called life.md",
-    "my setup/how did i setup my note sync through git hub ( serious modification required ).md"
+    "04 - daily logs/2024-12-25.md",
+    "Untitled.canvas",
+    "11 - xeetshot/log 01.md",
+    "13 - dumpyard/snippets and templates/general-tweaks-css-clases.md",
+    "13 - dumpyard",
+    "04 - daily logs/sever logs called life.md",
+    "13 - dumpyard/templates/[ template ]-daily.md",
+    "Untitled 1.md",
+    "Untitled.md",
+    "2024-12-25.md",
+    "13 - dumpyard/templates",
+    "13 - dumpyard/templates/[ template ]-daily-vanilla.md",
+    "05 - fucking checklists/college checklist.md",
+    "01 - awesome things i have done in college/the last ride ;) arte4is.bat.md",
+    "DAily.md",
+    "00 - nexus/i don't know if i can call this a dumpyard { much more than that }.md",
+    "00 - nexus/a place where i dump my gpu programming links.md",
+    "13 - dumpyard/snippets and templates/notebook-css-classes.md",
+    "13 - dumpyard/snippets and templates/[ template ]-unique.md",
+    "13 - dumpyard/snippets and templates/[ template ]-daily-vanilla.md",
+    "13 - dumpyard/snippets and templates/[ template ]-daily.md",
+    "13 - dumpyard/snippets and templates/runescape.css",
+    "13 - dumpyard/snippets and templates/varun-general-tweaks.css",
+    "13 - dumpyard/snippets and templates/daily-note-themes.css",
+    "13 - dumpyard/snippets and templates/notebook-backgrounds.css",
+    "13 - dumpyard/snippets and templates/img-center.css",
+    "13 - dumpyard/snippets and templates/colored-sidebar-items.css",
+    "13 - dumpyard/snippets and templates",
+    "99 - snippets/colored-sidebar-items.css",
+    "07 - just a random folder/albums i have listened to.md",
+    "03 - chotu workstation/will surely type something here.md",
+    "02 - c++ with data structures/will surely type something here.md",
+    "09 - my setup/how did i setup my note sync through git hub ( serious modification required ).md"
   ]
 }

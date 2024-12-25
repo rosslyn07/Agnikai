@@ -1,11 +1,14 @@
 {
-  "accentColor": "",
-  "interfaceFontFamily": "Comic Sans MS",
-  "cssTheme": "GitHub Theme",
-  "baseFontSize": 19,
   "enabledCssSnippets": [
-    "img-center"
+    "img-center",
+    "notebook-backgrounds",
+    "daily-note-themes",
+    "varun-general-tweaks",
+    "colored-sidebar-items"
   ],
-  "theme": "obsidian",
-  "textFontFamily": "Comic Sans MS"
+  "cssTheme": "Vanilla AMOLED",
+  "interfaceFontFamily": "JetBrains Mono",
+  "textFontFamily": "JetBrains Mono",
+  "monospaceFontFamily": "JetBrains Mono",
+  "baseFontSize": 18
 }
