@@ -17,12 +17,18 @@
 ->Syncthing
 ->Plex
 ->Zen Browser
-->Stremio [Use Stremio (app/interface) + torrentio (addon) + realdebrid account (streaming server) ]
+->Stremio [ Use Stremio (app/interface) + torrentio (addon) + realdebrid account (streaming server) ]
 ->Revo Uninstaller
+->Pika [ https://pika.style/ ]
+->Atlassian Loom
+->Canvid
+->FocuSee
 # Software's To Try On Mac
 ->Pile Journal App
 ->Noteplan
 ->Net News Wire
+->Screen Studio
+
 # Software To Learn In Near Future
 ->Emacs
 ->Vim & Vim Gui

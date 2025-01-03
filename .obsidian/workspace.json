@@ -11,10 +11,14 @@
             "id": "715b49b3530645a0",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "00 - nexus/i don't know if i can call this a dumpyard { much more than that }.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "i don't know if i can call this a dumpyard { much more than that }"
             }
           }
         ]
@@ -169,8 +173,9 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "5de2ffeda9003ef6",
+  "active": "715b49b3530645a0",
   "lastOpenFiles": [
+    "00 - nexus/a place where i dump my gpu programming links.md",
     "04 - daily logs/2024-12-25.md",
     "Untitled.canvas",
     "11 - xeetshot/log 01.md",
@@ -187,7 +192,6 @@
     "01 - awesome things i have done in college/the last ride ;) arte4is.bat.md",
     "DAily.md",
     "00 - nexus/i don't know if i can call this a dumpyard { much more than that }.md",
-    "00 - nexus/a place where i dump my gpu programming links.md",
     "13 - dumpyard/snippets and templates/notebook-css-classes.md",
     "13 - dumpyard/snippets and templates/[ template ]-unique.md",
     "13 - dumpyard/snippets and templates/[ template ]-daily-vanilla.md",
