@@ -1,3 +1,6 @@
+## <font color="#ffff00">obsidian-github workflow sync setup for pc and mobile</font> 
+### <font color="#ffff00">for pc</font>
+
 - first i created a private repo in my alt git hub account 
 - then i came back to my terminal ( preferably a new one ) and type the following line below 
 ```
@@ -30,8 +33,7 @@ git config user.name "your_user_name"
 git config user.email "your_email_id"
 ```
 - you are good to go 
-
-# how did i setup the same of my phone 
+### <font color="#ffff00">for phone</font>
 
 - first i downloaded termux app form the fdroid site 
 - then i installed the below packages 
@@ -44,4 +46,15 @@ pkg install gh
 gh auth login 
 ```
 - after loging in i cloned the private repo using gh repo link from the github site 
-- you are good to go 
+- you are good to go
+## <font color="#00b0f0">obsidian setup that i use</font>
+
+<span style="background:#ff4d4f">=the themes that i use</span>
+-> github theme 
+
+<span style="background:#ff4d4f">=the plugins that i use</span>
+-> excalidraw
+-> mousewheel image zoom
+
+<span style="background:#ff4d4f">=the snippets that i use</span>
+-> image-center.css
