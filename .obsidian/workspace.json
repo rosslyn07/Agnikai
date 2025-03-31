@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "943f1ec763ca33ad",
+        "id": "79c479f84b935768",
         "type": "tabs",
         "children": [
           {
-            "id": "e53cba5188123635",
+            "id": "ec2df8055a68a1f7",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -123,8 +123,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e53cba5188123635",
+  "active": "ec2df8055a68a1f7",
   "lastOpenFiles": [
+    "06 - programming/logs.md",
+    "03 - job hunt/logs.md",
+    "01 - checklists/logs.md",
+    "00 - daily logs/logs.md",
     "08 - workflow setups/my setups for workflows.md",
     "05 - articles/what the hell are large language models.md",
     "07 - haven/things i would like to try.md",
@@ -152,9 +156,6 @@
     "05 - fucking checklists/agni kai checklist.md",
     "05 - fucking checklists/general checklist.md",
     "05 - fucking checklists/programming checklist.md",
-    "05 - fucking checklists/college checklist.md",
-    "03 - chotu workstation/will surely type something here.md",
-    "00 - nexus/a place where i dump my gpu programming links.md",
     "09 - dumpyard/trash",
     "09 - dumpyard",
     "09 - dumpyard/templates",
