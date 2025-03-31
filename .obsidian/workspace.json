@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "01801945ff967aa9",
+        "id": "eb212e6c3afa68d2",
         "type": "tabs",
         "children": [
           {
-            "id": "b0c31e908db8de9d",
+            "id": "ef9f68fbd6b90a02",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -148,14 +148,23 @@
               "icon": "calendar-with-checkmark",
               "title": "Calendar"
             }
+          },
+          {
+            "id": "aefb17f8553d13e5",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -166,11 +175,14 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "terminal:Open terminal": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "5de2ffeda9003ef6",
+  "active": "ef9f68fbd6b90a02",
   "lastOpenFiles": [
+    "08 - workflow setups/my setups for workflows.md",
+    "04 - knowledge/404 resolved.md",
     "09 - dumpyard/snippets and templates/general-tweaks-css-clases.md",
     "09 - dumpyard/snippets and templates/[ template ]-unique.md",
     "09 - dumpyard/snippets and templates/[ template ]-daily-vanilla.md",
@@ -179,7 +191,6 @@
     "09 - dumpyard/templates/[ template ]-daily.md",
     "07 - haven/things i would like to try.md",
     "09 - dumpyard/excalidraw/agni kai.md",
-    "08 - workflow setups/my setups for workflows.md",
     "09 -/the setup.md",
     "09 - dumpyard/trash/the last ride ;) arte4is.bat.md",
     "09 - dumpyard/images",
@@ -199,7 +210,6 @@
     "09 - dumpyard/trash",
     "01 - awesome things i have done in college/large language models presentation.md",
     "06 - javascript/will surely type something here.md",
-    "04 - knowledge/404 resolved.md",
     "10 - articles/hmm large language models !.md",
     "Untitled.canvas",
     "09 - dumpyard",
