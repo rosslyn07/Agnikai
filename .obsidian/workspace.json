@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "eb212e6c3afa68d2",
+        "id": "943f1ec763ca33ad",
         "type": "tabs",
         "children": [
           {
-            "id": "ef9f68fbd6b90a02",
+            "id": "e53cba5188123635",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -84,62 +84,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "af9529d456e95a37",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "file": "Untitled.md",
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
-              },
-              "icon": "links-coming-in",
-              "title": "Backlinks for Untitled"
-            }
-          },
-          {
-            "id": "8d0089a97100b858",
-            "type": "leaf",
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "file": "my setup/how did i setup my note sync through git hub ( serious modification required ).md",
-                "linksCollapsed": false,
-                "unlinkedCollapsed": true
-              },
-              "icon": "links-going-out",
-              "title": "Outgoing links from how did i setup my note sync through git hub ( serious modification required )"
-            }
-          },
-          {
-            "id": "52a4d90a32f41fcb",
-            "type": "leaf",
-            "state": {
-              "type": "tag",
-              "state": {
-                "sortOrder": "frequency",
-                "useHierarchy": true
-              },
-              "icon": "lucide-tags",
-              "title": "Tags"
-            }
-          },
-          {
-            "id": "7cdad4dbb19caa53",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {},
-              "icon": "lucide-list",
-              "title": "Outline"
-            }
-          },
-          {
             "id": "0c434253fb1b6bc7",
             "type": "leaf",
             "state": {
@@ -160,7 +104,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -179,9 +123,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "ef9f68fbd6b90a02",
+  "active": "e53cba5188123635",
   "lastOpenFiles": [
     "08 - workflow setups/my setups for workflows.md",
+    "05 - articles/what the hell are large language models.md",
+    "07 - haven/things i would like to try.md",
+    "Untitled.canvas",
+    "00 - daily logs/2025-03-31.md",
+    "Excalidraw/Drawing 2025-03-31 15.58.35.excalidraw.md",
+    "Excalidraw",
     "04 - knowledge/404 resolved.md",
     "09 - dumpyard/snippets and templates/general-tweaks-css-clases.md",
     "09 - dumpyard/snippets and templates/[ template ]-unique.md",
@@ -189,12 +139,10 @@
     "09 - dumpyard/snippets and templates/[ template ]-daily.md",
     "09 - dumpyard/templates/[ template ]-daily-vanilla.md",
     "09 - dumpyard/templates/[ template ]-daily.md",
-    "07 - haven/things i would like to try.md",
     "09 - dumpyard/excalidraw/agni kai.md",
     "09 -/the setup.md",
     "09 - dumpyard/trash/the last ride ;) arte4is.bat.md",
     "09 - dumpyard/images",
-    "05 - articles/what the hell are large language models.md",
     "09 - dumpyard/images/llm_1.png",
     "07 - job hunt/notes and possible questions for each role with ids.md",
     "04 - daily logs/sever logs called life.md",
@@ -208,17 +156,12 @@
     "03 - chotu workstation/will surely type something here.md",
     "00 - nexus/a place where i dump my gpu programming links.md",
     "09 - dumpyard/trash",
-    "01 - awesome things i have done in college/large language models presentation.md",
-    "06 - javascript/will surely type something here.md",
-    "10 - articles/hmm large language models !.md",
-    "Untitled.canvas",
     "09 - dumpyard",
     "09 - dumpyard/templates",
     "09 - dumpyard/snippets and templates/runescape.css",
     "09 - dumpyard/snippets and templates/varun-general-tweaks.css",
     "09 - dumpyard/snippets and templates/daily-note-themes.css",
     "09 - dumpyard/snippets and templates/notebook-backgrounds.css",
-    "09 - dumpyard/snippets and templates/img-center.css",
-    "09 - dumpyard/snippets and templates/colored-sidebar-items.css"
+    "09 - dumpyard/snippets and templates/img-center.css"
   ]
 }
