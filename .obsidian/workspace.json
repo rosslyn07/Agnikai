@@ -11,10 +11,14 @@
             "id": "ec2df8055a68a1f7",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "00 - daily logs/logs.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "logs"
             }
           }
         ]
