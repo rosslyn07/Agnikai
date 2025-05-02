@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "79c479f84b935768",
+        "id": "47b027cbce7bdf03",
         "type": "tabs",
         "children": [
           {
-            "id": "ec2df8055a68a1f7",
+            "id": "aa6ba61912a57f87",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00 - daily logs/logs.md",
+                "file": "09 - life begins where fear ends/gulag.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "logs"
+              "title": "gulag"
             }
           }
         ]
@@ -77,7 +77,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 249.5
+    "width": 320.5
   },
   "right": {
     "id": "0287313ea7f9fe04",
@@ -106,6 +106,60 @@
               "icon": "git-pull-request",
               "title": "Source Control"
             }
+          },
+          {
+            "id": "4be7518716213d97",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "cc6a9d04968834eb",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "fc3d4383921caf7f",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "898d16821355bc08",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {},
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
           }
         ],
         "currentTab": 1
@@ -127,31 +181,33 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "ec2df8055a68a1f7",
+  "active": "aa6ba61912a57f87",
   "lastOpenFiles": [
-    "06 - programming/logs.md",
     "03 - job hunt/logs.md",
-    "01 - checklists/logs.md",
-    "00 - daily logs/logs.md",
-    "08 - workflow setups/my setups for workflows.md",
-    "05 - articles/what the hell are large language models.md",
     "07 - haven/things i would like to try.md",
+    "00 - daily logs/logs.md",
+    "09 - life begins where fear ends/gulag.md",
+    "06 - programming/logs.md",
+    "08 - workflow setups/my setups for workflows.md",
+    "10 - dumpyard/snippets and templates/[ template ]-daily.md",
+    "04 - knowledge/404 resolved.md",
+    "05 - articles/what the hell are large language models.md",
+    "01 - checklists/sol 1 - sol 50.md",
+    "09 - life begins where fear ends",
     "Untitled.canvas",
     "00 - daily logs/2025-03-31.md",
     "Excalidraw/Drawing 2025-03-31 15.58.35.excalidraw.md",
     "Excalidraw",
-    "04 - knowledge/404 resolved.md",
-    "09 - dumpyard/snippets and templates/general-tweaks-css-clases.md",
-    "09 - dumpyard/snippets and templates/[ template ]-unique.md",
-    "09 - dumpyard/snippets and templates/[ template ]-daily-vanilla.md",
-    "09 - dumpyard/snippets and templates/[ template ]-daily.md",
-    "09 - dumpyard/templates/[ template ]-daily-vanilla.md",
-    "09 - dumpyard/templates/[ template ]-daily.md",
-    "09 - dumpyard/excalidraw/agni kai.md",
+    "10 - dumpyard/snippets and templates/general-tweaks-css-clases.md",
+    "10 - dumpyard/snippets and templates/[ template ]-unique.md",
+    "10 - dumpyard/snippets and templates/[ template ]-daily-vanilla.md",
+    "10 - dumpyard/templates/[ template ]-daily-vanilla.md",
+    "10 - dumpyard/templates/[ template ]-daily.md",
+    "10 - dumpyard/excalidraw/agni kai.md",
     "09 -/the setup.md",
-    "09 - dumpyard/trash/the last ride ;) arte4is.bat.md",
-    "09 - dumpyard/images",
-    "09 - dumpyard/images/llm_1.png",
+    "10 - dumpyard/trash/the last ride ;) arte4is.bat.md",
+    "10 - dumpyard/images",
+    "10 - dumpyard/images/llm_1.png",
     "07 - job hunt/notes and possible questions for each role with ids.md",
     "04 - daily logs/sever logs called life.md",
     "11 - xeetshot/log 01.md",
@@ -159,14 +215,12 @@
     "02 - c++ with data structures/will surely type something here.md",
     "05 - fucking checklists/agni kai checklist.md",
     "05 - fucking checklists/general checklist.md",
-    "05 - fucking checklists/programming checklist.md",
-    "09 - dumpyard/trash",
-    "09 - dumpyard",
-    "09 - dumpyard/templates",
-    "09 - dumpyard/snippets and templates/runescape.css",
-    "09 - dumpyard/snippets and templates/varun-general-tweaks.css",
-    "09 - dumpyard/snippets and templates/daily-note-themes.css",
-    "09 - dumpyard/snippets and templates/notebook-backgrounds.css",
-    "09 - dumpyard/snippets and templates/img-center.css"
+    "10 - dumpyard/trash",
+    "10 - dumpyard",
+    "10 - dumpyard/templates",
+    "10 - dumpyard/snippets and templates/runescape.css",
+    "10 - dumpyard/snippets and templates/varun-general-tweaks.css",
+    "10 - dumpyard/snippets and templates/daily-note-themes.css",
+    "10 - dumpyard/snippets and templates/notebook-backgrounds.css"
   ]
 }

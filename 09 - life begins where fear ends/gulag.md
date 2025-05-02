@@ -1,0 +1,45 @@
+## serious project hunting
+
+-> core c plus plus projects
+- the ones i like
+	- ray tracing engine
+	- physics simulation engine
+	- high performance multithread file indexer
+	- high frequency trading simulation engine
+	- password manager
+	- high performance web server
+	- real time audio processing framework
+	- procedural terrain generator
+- the ones going on my resume
+	- 
+
+-> web development project
+- the ones i like
+	- personal finance tracker + ai powered personal finance tracker
+	- deepfake detector web dashboard
+	- remote coding interview platform
+	- no code 3d game builder
+	- pwa for offline note taking
+	- collaborative online drawing/whiteboarding
+	- personalized generative art
+	- graph based knowledge management system
+	- real time multiplayer trivia game
+- the ones going on my resume
+	- 
+
+-> python + core language project
+- the ones i like
+	- ai based plagiarism detector for code 
+	- ai based note summarizer
+	- smart terminal assistant
+	- ai powered interactive music generator 
+	- cross platform ai assistant
+	- ml powered game engine
+	- hft system with deep learning
+	- computer vision based gesture recognition system
+	- ai powered image compression tool 
+	- real time sentiment analysis tool 
+	- real time code refactoring tool 
+	- ai powered chess engine with gui
+- the ones going on the resume
+	- 
